@@ -12,3 +12,5 @@ console.log(a);
 
 * Angelababy
 * 古力娜扎
+
+[这是我作业的GitHub的链接](https://github.com/rubyjade1188/blog-test/blob/main/README.md)
